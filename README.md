@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @BambuChan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Java, C/C++, Python, HTML/CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
+  ________             _                       
+ |__   __| |          | |  ,,                     
+    | |  | |__   ___  | | __ _ _ __ ___  _ __  
+    | |  | '_ \ / _ \ | |/ _` | '_ ` _ \| '_ \ 
+    | |  | | | |  __/ | | (_| | | | | | | |_) |
+    |_|  |_| |_|\___| |_|\__,_|_| |_| |_| .__/ 
+                                        | |    
+                                        |_|    
